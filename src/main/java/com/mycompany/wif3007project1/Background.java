@@ -32,7 +32,7 @@ public class Background {
         this.positionX = positionX;
     }
 
-    public int getPisotionY() {
+    public int getPositionY() {
         return positionY;
     }
 

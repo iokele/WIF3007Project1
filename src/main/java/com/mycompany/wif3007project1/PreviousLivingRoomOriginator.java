@@ -4,5 +4,5 @@ import java.util.ArrayList;
 
 public interface PreviousLivingRoomOriginator {
     Background getBackground();
-    ArrayList<Furniture> getFurniture();
+    ArrayList<Furniture> getFurnitures();
 }

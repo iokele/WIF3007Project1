@@ -4,18 +4,18 @@ import java.util.ArrayList;
 
 public class PreviousLivingRoom implements PreviousLivingRoomCareTaker,PreviousLivingRoomOriginator{
     private Background background;
-    private ArrayList<Furniture> furniture;
+    private ArrayList<Furniture> furnitures;
 
-    public PreviousLivingRoom(Background background, ArrayList<Furniture> furniture){
+    public PreviousLivingRoom(Background background, ArrayList<Furniture> furnitures){
         this.background = background;
-        this.furniture = furniture;
+        this.furnitures = furnitures;
     }
     @Override
     public Background getBackground(){
         return background;
     }
     @Override
-    public ArrayList<Furniture> getFurniture(){
-        return furniture;
+    public ArrayList<Furniture> getFurnitures(){
+        return furnitures;
     }
 }

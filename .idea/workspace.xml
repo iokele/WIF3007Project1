@@ -14,9 +14,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/Background.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+            <state relative-caret-position="299">
+              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
               <folding>
+                <element signature="e#385#386#0" expanded="true" />
                 <element signature="e#414#415#0" expanded="true" />
                 <element signature="e#458#459#0" expanded="true" />
                 <element signature="e#494#495#0" expanded="true" />
@@ -27,11 +28,274 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="41" column="45" lean-forward="true" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
+            <state relative-caret-position="253">
+              <caret line="11" column="91" selection-start-line="11" selection-start-column="91" selection-end-line="11" selection-end-column="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/PreviousLivingRoomCareTaker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/com.mycompany.wif3007project1">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>com.mycompany.wif3007project1</OriginalElement>
+              <nodes>
+                <node x="1019.0" y="1077.0">com.mycompany.wif3007project1.SofaFactory</node>
+                <node x="443.5" y="1077.0">com.mycompany.wif3007project1.LoopingBehviour</node>
+                <node x="509.0" y="619.0">com.mycompany.wif3007project1.PreviousLivingRoomCareTaker</node>
+                <node x="0.0" y="463.0">com.mycompany.wif3007project1.Pumpkin</node>
+                <node x="1543.4973544973545" y="292.5">com.mycompany.wif3007project1.TableTypeA</node>
+                <node x="296.25" y="463.0">com.mycompany.wif3007project1.Ghost</node>
+                <node x="671.4973544973544" y="292.5">com.mycompany.wif3007project1.Clocks</node>
+                <node x="1003.4973544973544" y="292.5">com.mycompany.wif3007project1.SofaTypeB</node>
+                <node x="704.0" y="1180.0">com.mycompany.wif3007project1.Disappear</node>
+                <node x="837.4973544973544" y="292.5">com.mycompany.wif3007project1.SofaTypeA</node>
+                <node x="375.0" y="1180.0">com.mycompany.wif3007project1.Spin</node>
+                <node x="1587.4973544973545" y="58.0">com.mycompany.wif3007project1.TableInterface</node>
+                <node x="1231.4973544973545" y="452.0">com.mycompany.wif3007project1.EnvironmentLight</node>
+                <node x="0.0" y="792.0">com.mycompany.wif3007project1.LivingRoom</node>
+                <node x="0.0" y="1180.0">com.mycompany.wif3007project1.Zoom</node>
+                <node x="1195.4973544973545" y="58.0">com.mycompany.wif3007project1.CenterPieceInterface</node>
+                <node x="307.4973544973544" y="292.5">com.mycompany.wif3007project1.Vases</node>
+                <node x="1412.9973544973545" y="58.0">com.mycompany.wif3007project1.LightInterface</node>
+                <node x="175.0" y="1180.0">com.mycompany.wif3007project1.FadeIn</node>
+                <node x="754.0" y="596.0">com.mycompany.wif3007project1.PreviousLivingRoomOriginator</node>
+                <node x="1335.4973544973545" y="246.0">com.mycompany.wif3007project1.Light</node>
+                <node x="141.49735449735442" y="292.5">com.mycompany.wif3007project1.Candles</node>
+                <node x="1310.0" y="596.0">com.mycompany.wif3007project1.Animation</node>
+                <node x="996.1283068783068" y="58.0">com.mycompany.wif3007project1.SofaInterface</node>
+                <node x="1439.4973544973545" y="452.0">com.mycompany.wif3007project1.DecorationLight</node>
+                <node x="849.0" y="1180.0">com.mycompany.wif3007project1.FadeOut</node>
+                <node x="0.0" y="596.0">com.mycompany.wif3007project1.LivingRoomInterface</node>
+                <node x="1297.0" y="1077.0">com.mycompany.wif3007project1.TestMain</node>
+                <node x="776.0" y="1077.0">com.mycompany.wif3007project1.ExitBehaviour</node>
+                <node x="179.4973544973543" y="58.0">com.mycompany.wif3007project1.DecorationInterface</node>
+                <node x="87.0" y="1077.0">com.mycompany.wif3007project1.EntranceBehaviour</node>
+                <node x="547.0" y="722.0">com.mycompany.wif3007project1.PreviousLivingRoom</node>
+                <node x="473.4973544973544" y="304.0">com.mycompany.wif3007project1.DecorativeAccessories</node>
+                <node x="1169.4973544973545" y="292.5">com.mycompany.wif3007project1.CenterPiece</node>
+                <node x="527.0" y="1180.0">com.mycompany.wif3007project1.Floating</node>
+                <node x="1024.0" y="596.0">com.mycompany.wif3007project1.Background</node>
+                <node x="777.8783068783068" y="0.0">com.mycompany.wif3007project1.Furniture</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="com.mycompany.wif3007project1.Pumpkin" target="com.mycompany.wif3007project1.DecorativeAccessories">
+                  <point x="42.75" y="-38.5" />
+                  <point x="128.25" y="422.0" />
+                  <point x="517.9973544973544" y="422.0" />
+                  <point x="-44.5" y="15.0" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.Candles" target="com.mycompany.wif3007project1.Furniture">
+                  <point x="36.5" y="-26.5" />
+                  <point x="250.99735449735442" y="196.0" />
+                  <point x="785.9894179894179" y="196.0" />
+                  <point x="-64.88888888888891" y="73.0" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.Spin" target="com.mycompany.wif3007project1.LoopingBehviour">
+                  <point x="0.0" y="-26.5" />
+                  <point x="441.0" y="1155.0" />
+                  <point x="480.25" y="1155.0" />
+                  <point x="-36.75" y="26.5" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.TableTypeA" target="com.mycompany.wif3007project1.Furniture">
+                  <point x="-36.5" y="-26.5" />
+                  <point x="1579.9973544973545" y="186.0" />
+                  <point x="915.7671957671957" y="186.0" />
+                  <point x="64.88888888888891" y="73.0" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.Ghost" target="com.mycompany.wif3007project1.DecorativeAccessories">
+                  <point x="42.75" y="-38.5" />
+                  <point x="424.5" y="432.0" />
+                  <point x="606.9973544973544" y="432.0" />
+                  <point x="44.5" y="15.0" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.Candles" target="com.mycompany.wif3007project1.DecorationInterface">
+                  <point x="-36.5" y="-26.5" />
+                  <point x="177.99735449735442" y="186.0" />
+                  <point x="247.41402116402105" y="186.0" />
+                  <point x="-13.583333333333314" y="15.0" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.EnvironmentLight" target="com.mycompany.wif3007project1.Light">
+                  <point x="0.0" y="-49.5" />
+                  <point x="1325.4973544973545" y="432.0" />
+                  <point x="1382.4973544973545" y="432.0" />
+                  <point x="-47.0" y="73.0" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.Pumpkin" target="com.mycompany.wif3007project1.DecorationInterface">
+                  <point x="-42.75" y="-38.5" />
+                  <point x="42.75" y="166.0" />
+                  <point x="193.08068783068757" y="166.0" />
+                  <point x="-67.91666666666674" y="15.0" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.Light" target="com.mycompany.wif3007project1.LightInterface">
+                  <point x="47.0" y="-73.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.SofaTypeB" target="com.mycompany.wif3007project1.SofaInterface">
+                  <point x="36.5" y="-26.5" />
+                  <point x="1112.9973544973545" y="226.0" />
+                  <point x="1089.8783068783068" y="226.0" />
+                  <point x="31.25" y="15.0" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.Clocks" target="com.mycompany.wif3007project1.DecorationInterface">
+                  <point x="-36.5" y="-26.5" />
+                  <point x="707.9973544973544" y="166.0" />
+                  <point x="328.91402116402105" y="166.0" />
+                  <point x="67.91666666666669" y="15.0" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.Vases" target="com.mycompany.wif3007project1.DecorationInterface">
+                  <point x="-36.5" y="-26.5" />
+                  <point x="343.9973544973544" y="186.0" />
+                  <point x="274.5806878306877" y="186.0" />
+                  <point x="13.583333333333371" y="15.0" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.SofaTypeA" target="com.mycompany.wif3007project1.Furniture">
+                  <point x="-36.5" y="-26.5" />
+                  <point x="873.9973544973544" y="226.0" />
+                  <point x="850.8783068783068" y="226.0" />
+                  <point x="0.0" y="73.0" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.Floating" target="com.mycompany.wif3007project1.LoopingBehviour">
+                  <point x="0.0" y="-26.5" />
+                  <point x="593.0" y="1155.0" />
+                  <point x="553.75" y="1155.0" />
+                  <point x="36.75" y="26.5" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.DecorationLight" target="com.mycompany.wif3007project1.Light">
+                  <point x="0.0" y="-49.5" />
+                  <point x="1533.4973544973545" y="432.0" />
+                  <point x="1476.4973544973545" y="432.0" />
+                  <point x="47.0" y="73.0" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.PreviousLivingRoom" target="com.mycompany.wif3007project1.PreviousLivingRoomCareTaker">
+                  <point x="-98.5" y="-50.0" />
+                  <point x="645.5" y="697.0" />
+                  <point x="621.5" y="697.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.FadeIn" target="com.mycompany.wif3007project1.EntranceBehaviour">
+                  <point x="0.0" y="-26.5" />
+                  <point x="252.5" y="1155.0" />
+                  <point x="204.0" y="1155.0" />
+                  <point x="39.0" y="26.5" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.Clocks" target="com.mycompany.wif3007project1.Furniture">
+                  <point x="36.5" y="-26.5" />
+                  <point x="780.9973544973544" y="226.0" />
+                  <point x="834.6560846560847" y="226.0" />
+                  <point x="-16.22222222222217" y="73.0" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.Vases" target="com.mycompany.wif3007project1.Furniture">
+                  <point x="36.5" y="-26.5" />
+                  <point x="416.9973544973544" y="206.0" />
+                  <point x="802.2116402116402" y="206.0" />
+                  <point x="-48.66666666666663" y="73.0" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.CenterPiece" target="com.mycompany.wif3007project1.CenterPieceInterface">
+                  <point x="36.5" y="-26.5" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.TableTypeA" target="com.mycompany.wif3007project1.TableInterface">
+                  <point x="36.5" y="-26.5" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.DecorativeAccessories" target="com.mycompany.wif3007project1.Furniture">
+                  <point x="44.5" y="-15.0" />
+                  <point x="606.9973544973544" y="216.0" />
+                  <point x="818.4338624338624" y="216.0" />
+                  <point x="-32.44444444444446" y="73.0" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.PreviousLivingRoom" target="com.mycompany.wif3007project1.PreviousLivingRoomOriginator">
+                  <point x="98.5" y="-50.0" />
+                  <point x="842.5" y="697.0" />
+                  <point x="866.5" y="697.0" />
+                  <point x="0.0" y="38.0" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.Zoom" target="com.mycompany.wif3007project1.EntranceBehaviour">
+                  <point x="0.0" y="-26.5" />
+                  <point x="77.5" y="1155.0" />
+                  <point x="126.0" y="1155.0" />
+                  <point x="-39.0" y="26.5" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.LivingRoom" target="com.mycompany.wif3007project1.LivingRoomInterface">
+                  <point x="0.0" y="-120.0" />
+                  <point x="0.0" y="73.0" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.DecorativeAccessories" target="com.mycompany.wif3007project1.DecorationInterface">
+                  <point x="-44.5" y="-15.0" />
+                  <point x="517.9973544973544" y="176.0" />
+                  <point x="301.7473544973543" y="176.0" />
+                  <point x="40.75" y="15.0" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.Ghost" target="com.mycompany.wif3007project1.DecorationInterface">
+                  <point x="-42.75" y="-38.5" />
+                  <point x="339.0" y="412.0" />
+                  <point x="130.99735449735442" y="412.0" />
+                  <point x="130.99735449735442" y="176.0" />
+                  <point x="220.2473544973543" y="176.0" />
+                  <point x="-40.75" y="15.0" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.Disappear" target="com.mycompany.wif3007project1.ExitBehaviour">
+                  <point x="0.0" y="-26.5" />
+                  <point x="766.5" y="1155.0" />
+                  <point x="807.5" y="1155.0" />
+                  <point x="-31.5" y="26.5" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.SofaTypeA" target="com.mycompany.wif3007project1.SofaInterface">
+                  <point x="36.5" y="-26.5" />
+                  <point x="946.9973544973544" y="226.0" />
+                  <point x="1027.3783068783068" y="226.0" />
+                  <point x="-31.25" y="15.0" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.SofaTypeB" target="com.mycompany.wif3007project1.Furniture">
+                  <point x="-36.5" y="-26.5" />
+                  <point x="1039.9973544973545" y="216.0" />
+                  <point x="867.100529100529" y="216.0" />
+                  <point x="16.22222222222217" y="73.0" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.CenterPiece" target="com.mycompany.wif3007project1.Furniture">
+                  <point x="-36.5" y="-26.5" />
+                  <point x="1205.9973544973545" y="206.0" />
+                  <point x="883.3227513227513" y="206.0" />
+                  <point x="32.44444444444446" y="73.0" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.FadeOut" target="com.mycompany.wif3007project1.ExitBehaviour">
+                  <point x="0.0" y="-26.5" />
+                  <point x="911.5" y="1155.0" />
+                  <point x="870.5" y="1155.0" />
+                  <point x="31.5" y="26.5" />
+                </edge>
+                <edge source="com.mycompany.wif3007project1.Light" target="com.mycompany.wif3007project1.Furniture">
+                  <point x="-47.0" y="-73.0" />
+                  <point x="1382.4973544973545" y="196.0" />
+                  <point x="899.5449735449736" y="196.0" />
+                  <point x="48.66666666666674" y="73.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.2335993615323226" x="907.5526298764314" y="748.5239761413411" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+                <Category>Properties</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
             </state>
           </provider>
         </entry>
@@ -41,6 +305,33 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
               <caret line="2" column="61" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/PreviousLivingRoomOriginator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/PreviousLivingRoom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/SofaInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -69,56 +360,6 @@
                 <element signature="e#370#371#0" expanded="true" />
                 <element signature="e#402#403#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/DecorationLight.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/DecorationInterface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/Light.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-              <folding>
-                <element signature="e#428#429#0" expanded="true" />
-                <element signature="e#467#468#0" expanded="true" />
-                <element signature="e#501#502#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/SofaTypeA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/SofaTypeB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -171,21 +412,21 @@
         <option value="$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/Animation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/LivingRoom.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/LivingRoomInterface.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/PreviousLivingRoom.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/PreviousLivingRoomOriginator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/SofaTypeB.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/DecorativeAccessoriesInterface.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/DecorativeAccessories.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/Background.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/Pumpkin.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/Ghost.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/Background.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/PreviousLivingRoom.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/PreviousLivingRoomOriginator.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="346" />
-    <option name="y" value="163" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="301" />
+    <option name="y" value="218" />
     <option name="width" value="1509" />
     <option name="height" value="835" />
   </component>
@@ -239,7 +480,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604753228744" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604757400520" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -296,18 +537,18 @@
       <option name="presentableId" value="Default" />
       <updated>1604733610429</updated>
       <workItem from="1604733614390" duration="5841000" />
-      <workItem from="1604747108670" duration="6070000" />
+      <workItem from="1604747108670" duration="7313000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11911000" />
+    <option name="totallyTimeSpent" value="13154000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="346" y="163" width="1509" height="835" extended-state="0" />
+    <frame x="301" y="218" width="1509" height="835" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25327814" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25327814" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -318,7 +559,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32952926" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32952926" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -549,262 +790,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/PreviousLivingRoomCareTaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/PreviousLivingRoom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/PreviousLivingRoomOriginator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/LivingRoom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.mycompany.wif3007project1">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.mycompany.wif3007project1</OriginalElement>
-          <nodes>
-            <node x="1019.0" y="1047.0">com.mycompany.wif3007project1.SofaFactory</node>
-            <node x="443.5" y="1047.0">com.mycompany.wif3007project1.LoopingBehviour</node>
-            <node x="509.0" y="589.0">com.mycompany.wif3007project1.PreviousLivingRoomCareTaker</node>
-            <node x="743.375" y="260.5">com.mycompany.wif3007project1.Pumpkin</node>
-            <node x="1499.9421296296296" y="272.5">com.mycompany.wif3007project1.TableTypeA</node>
-            <node x="0.0" y="272.5">com.mycompany.wif3007project1.Clocks</node>
-            <node x="1164.9421296296296" y="272.5">com.mycompany.wif3007project1.SofaTypeB</node>
-            <node x="704.0" y="1150.0">com.mycompany.wif3007project1.Disappear</node>
-            <node x="990.4976851851852" y="272.5">com.mycompany.wif3007project1.SofaTypeA</node>
-            <node x="375.0" y="1150.0">com.mycompany.wif3007project1.Spin</node>
-            <node x="1543.9421296296296" y="58.0">com.mycompany.wif3007project1.TableInterface</node>
-            <node x="394.0" y="422.0">com.mycompany.wif3007project1.EnvironmentLight</node>
-            <node x="0.0" y="762.0">com.mycompany.wif3007project1.LivingRoom</node>
-            <node x="0.0" y="1150.0">com.mycompany.wif3007project1.Zoom</node>
-            <node x="1356.9421296296296" y="58.0">com.mycompany.wif3007project1.CenterPieceInterface</node>
-            <node x="332.0" y="272.5">com.mycompany.wif3007project1.Vases</node>
-            <node x="452.93364197530855" y="58.0">com.mycompany.wif3007project1.LightInterface</node>
-            <node x="175.0" y="1150.0">com.mycompany.wif3007project1.FadeIn</node>
-            <node x="754.0" y="566.0">com.mycompany.wif3007project1.PreviousLivingRoomOriginator</node>
-            <node x="498.0" y="226.0">com.mycompany.wif3007project1.Light</node>
-            <node x="166.0" y="272.5">com.mycompany.wif3007project1.Candles</node>
-            <node x="1310.0" y="566.0">com.mycompany.wif3007project1.Animation</node>
-            <node x="824.9421296296296" y="58.0">com.mycompany.wif3007project1.DecorativeAccessoriesInterface</node>
-            <node x="1122.125" y="58.0">com.mycompany.wif3007project1.SofaInterface</node>
-            <node x="602.0" y="422.0">com.mycompany.wif3007project1.DecorationLight</node>
-            <node x="849.0" y="1150.0">com.mycompany.wif3007project1.FadeOut</node>
-            <node x="0.0" y="566.0">com.mycompany.wif3007project1.LivingRoomInterface</node>
-            <node x="776.0" y="1047.0">com.mycompany.wif3007project1.ExitBehaviour</node>
-            <node x="121.0" y="58.0">com.mycompany.wif3007project1.DecorationInterface</node>
-            <node x="87.0" y="1047.0">com.mycompany.wif3007project1.EntranceBehaviour</node>
-            <node x="547.0" y="692.0">com.mycompany.wif3007project1.PreviousLivingRoom</node>
-            <node x="1330.9421296296296" y="272.5">com.mycompany.wif3007project1.CenterPiece</node>
-            <node x="527.0" y="1150.0">com.mycompany.wif3007project1.Floating</node>
-            <node x="1024.0" y="566.0">com.mycompany.wif3007project1.Background</node>
-            <node x="652.125" y="0.0">com.mycompany.wif3007project1.Furniture</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.mycompany.wif3007project1.Candles" target="com.mycompany.wif3007project1.Furniture">
-              <point x="36.5" y="-26.5" />
-              <point x="275.5" y="186.0" />
-              <point x="676.4583333333334" y="186.0" />
-              <point x="-48.66666666666663" y="73.0" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.Pumpkin" target="com.mycompany.wif3007project1.Furniture">
-              <point x="-42.75" y="-38.5" />
-              <point x="786.125" y="206.0" />
-              <point x="725.125" y="206.0" />
-              <point x="0.0" y="73.0" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.Spin" target="com.mycompany.wif3007project1.LoopingBehviour">
-              <point x="0.0" y="-26.5" />
-              <point x="441.0" y="1125.0" />
-              <point x="480.25" y="1125.0" />
-              <point x="-36.75" y="26.5" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.TableTypeA" target="com.mycompany.wif3007project1.Furniture">
-              <point x="-36.5" y="-26.5" />
-              <point x="1536.4421296296296" y="166.0" />
-              <point x="790.0138888888889" y="166.0" />
-              <point x="64.88888888888891" y="73.0" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.EnvironmentLight" target="com.mycompany.wif3007project1.Light">
-              <point x="0.0" y="-49.5" />
-              <point x="488.0" y="397.0" />
-              <point x="545.0" y="397.0" />
-              <point x="-47.0" y="73.0" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.Candles" target="com.mycompany.wif3007project1.DecorationInterface">
-              <point x="-36.5" y="-26.5" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.Light" target="com.mycompany.wif3007project1.LightInterface">
-              <point x="-47.0" y="-73.0" />
-              <point x="545.0" y="166.0" />
-              <point x="516.4336419753085" y="166.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.SofaTypeB" target="com.mycompany.wif3007project1.SofaInterface">
-              <point x="36.5" y="-26.5" />
-              <point x="1274.4421296296296" y="206.0" />
-              <point x="1215.875" y="206.0" />
-              <point x="31.25" y="15.0" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.Clocks" target="com.mycompany.wif3007project1.DecorationInterface">
-              <point x="-36.5" y="-26.5" />
-              <point x="36.5" y="166.0" />
-              <point x="148.16666666666663" y="166.0" />
-              <point x="-54.33333333333334" y="15.0" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.Vases" target="com.mycompany.wif3007project1.DecorationInterface">
-              <point x="-36.5" y="-26.5" />
-              <point x="368.5" y="166.0" />
-              <point x="256.83333333333337" y="166.0" />
-              <point x="54.33333333333337" y="15.0" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.SofaTypeA" target="com.mycompany.wif3007project1.Furniture">
-              <point x="-36.5" y="-26.5" />
-              <point x="1026.9976851851852" y="196.0" />
-              <point x="741.3472222222222" y="196.0" />
-              <point x="16.22222222222217" y="73.0" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.Floating" target="com.mycompany.wif3007project1.LoopingBehviour">
-              <point x="0.0" y="-26.5" />
-              <point x="593.0" y="1125.0" />
-              <point x="553.75" y="1125.0" />
-              <point x="36.75" y="26.5" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.DecorationLight" target="com.mycompany.wif3007project1.Light">
-              <point x="-5.6843418860808015E-14" y="-49.5" />
-              <point x="696.0" y="397.0" />
-              <point x="639.0" y="397.0" />
-              <point x="47.0" y="73.0" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.PreviousLivingRoom" target="com.mycompany.wif3007project1.PreviousLivingRoomCareTaker">
-              <point x="-98.5" y="-50.0" />
-              <point x="645.5" y="667.0" />
-              <point x="621.5" y="667.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.FadeIn" target="com.mycompany.wif3007project1.EntranceBehaviour">
-              <point x="0.0" y="-26.5" />
-              <point x="252.5" y="1125.0" />
-              <point x="204.0" y="1125.0" />
-              <point x="39.0" y="26.5" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.Clocks" target="com.mycompany.wif3007project1.Furniture">
-              <point x="36.5" y="-26.5" />
-              <point x="109.5" y="176.0" />
-              <point x="660.2361111111111" y="176.0" />
-              <point x="-64.88888888888891" y="73.0" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.Vases" target="com.mycompany.wif3007project1.Furniture">
-              <point x="36.5" y="-26.5" />
-              <point x="441.5" y="196.0" />
-              <point x="692.6805555555555" y="196.0" />
-              <point x="-32.44444444444446" y="73.0" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.CenterPiece" target="com.mycompany.wif3007project1.CenterPieceInterface">
-              <point x="36.5" y="-26.5" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.TableTypeA" target="com.mycompany.wif3007project1.TableInterface">
-              <point x="36.5" y="-26.5" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.Pumpkin" target="com.mycompany.wif3007project1.DecorativeAccessoriesInterface">
-              <point x="42.75" y="-38.5" />
-              <point x="871.625" y="206.0" />
-              <point x="939.4421296296296" y="206.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.PreviousLivingRoom" target="com.mycompany.wif3007project1.PreviousLivingRoomOriginator">
-              <point x="98.5" y="-50.0" />
-              <point x="842.5" y="667.0" />
-              <point x="866.5" y="667.0" />
-              <point x="0.0" y="38.0" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.Zoom" target="com.mycompany.wif3007project1.EntranceBehaviour">
-              <point x="0.0" y="-26.5" />
-              <point x="77.5" y="1125.0" />
-              <point x="126.0" y="1125.0" />
-              <point x="-39.0" y="26.5" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.LivingRoom" target="com.mycompany.wif3007project1.LivingRoomInterface">
-              <point x="0.0" y="-120.0" />
-              <point x="0.0" y="73.0" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.Disappear" target="com.mycompany.wif3007project1.ExitBehaviour">
-              <point x="0.0" y="-26.5" />
-              <point x="766.5" y="1125.0" />
-              <point x="807.5" y="1125.0" />
-              <point x="-31.5" y="26.5" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.SofaTypeA" target="com.mycompany.wif3007project1.SofaInterface">
-              <point x="36.5" y="-26.5" />
-              <point x="1099.9976851851852" y="206.0" />
-              <point x="1153.375" y="206.0" />
-              <point x="-31.25" y="15.0" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.SofaTypeB" target="com.mycompany.wif3007project1.Furniture">
-              <point x="-36.5" y="-26.5" />
-              <point x="1201.4421296296296" y="186.0" />
-              <point x="757.5694444444445" y="186.0" />
-              <point x="32.44444444444446" y="73.0" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.CenterPiece" target="com.mycompany.wif3007project1.Furniture">
-              <point x="-36.5" y="-26.5" />
-              <point x="1367.4421296296296" y="176.0" />
-              <point x="773.7916666666667" y="176.0" />
-              <point x="48.66666666666674" y="73.0" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.FadeOut" target="com.mycompany.wif3007project1.ExitBehaviour">
-              <point x="0.0" y="-26.5" />
-              <point x="911.5" y="1125.0" />
-              <point x="870.5" y="1125.0" />
-              <point x="31.5" y="26.5" />
-            </edge>
-            <edge source="com.mycompany.wif3007project1.Light" target="com.mycompany.wif3007project1.Furniture">
-              <point x="47.0" y="-73.0" />
-              <point x="639.0" y="206.0" />
-              <point x="708.9027777777778" y="206.0" />
-              <point x="-16.22222222222217" y="73.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.044889615699101" x="18.68933406369817" y="710.6893340636982" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/SofaInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -855,20 +844,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/Background.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-          <folding>
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-            <element signature="e#628#629#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/DecorationLight.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -909,8 +884,303 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="41" column="45" lean-forward="true" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
+        <state relative-caret-position="253">
+          <caret line="11" column="91" selection-start-line="11" selection-start-column="91" selection-end-line="11" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.mycompany.wif3007project1">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.mycompany.wif3007project1</OriginalElement>
+          <nodes>
+            <node x="1019.0" y="1077.0">com.mycompany.wif3007project1.SofaFactory</node>
+            <node x="443.5" y="1077.0">com.mycompany.wif3007project1.LoopingBehviour</node>
+            <node x="509.0" y="619.0">com.mycompany.wif3007project1.PreviousLivingRoomCareTaker</node>
+            <node x="0.0" y="463.0">com.mycompany.wif3007project1.Pumpkin</node>
+            <node x="1543.4973544973545" y="292.5">com.mycompany.wif3007project1.TableTypeA</node>
+            <node x="296.25" y="463.0">com.mycompany.wif3007project1.Ghost</node>
+            <node x="671.4973544973544" y="292.5">com.mycompany.wif3007project1.Clocks</node>
+            <node x="1003.4973544973544" y="292.5">com.mycompany.wif3007project1.SofaTypeB</node>
+            <node x="704.0" y="1180.0">com.mycompany.wif3007project1.Disappear</node>
+            <node x="837.4973544973544" y="292.5">com.mycompany.wif3007project1.SofaTypeA</node>
+            <node x="375.0" y="1180.0">com.mycompany.wif3007project1.Spin</node>
+            <node x="1587.4973544973545" y="58.0">com.mycompany.wif3007project1.TableInterface</node>
+            <node x="1231.4973544973545" y="452.0">com.mycompany.wif3007project1.EnvironmentLight</node>
+            <node x="0.0" y="792.0">com.mycompany.wif3007project1.LivingRoom</node>
+            <node x="0.0" y="1180.0">com.mycompany.wif3007project1.Zoom</node>
+            <node x="1195.4973544973545" y="58.0">com.mycompany.wif3007project1.CenterPieceInterface</node>
+            <node x="307.4973544973544" y="292.5">com.mycompany.wif3007project1.Vases</node>
+            <node x="1412.9973544973545" y="58.0">com.mycompany.wif3007project1.LightInterface</node>
+            <node x="175.0" y="1180.0">com.mycompany.wif3007project1.FadeIn</node>
+            <node x="754.0" y="596.0">com.mycompany.wif3007project1.PreviousLivingRoomOriginator</node>
+            <node x="1335.4973544973545" y="246.0">com.mycompany.wif3007project1.Light</node>
+            <node x="141.49735449735442" y="292.5">com.mycompany.wif3007project1.Candles</node>
+            <node x="1310.0" y="596.0">com.mycompany.wif3007project1.Animation</node>
+            <node x="996.1283068783068" y="58.0">com.mycompany.wif3007project1.SofaInterface</node>
+            <node x="1439.4973544973545" y="452.0">com.mycompany.wif3007project1.DecorationLight</node>
+            <node x="849.0" y="1180.0">com.mycompany.wif3007project1.FadeOut</node>
+            <node x="0.0" y="596.0">com.mycompany.wif3007project1.LivingRoomInterface</node>
+            <node x="1297.0" y="1077.0">com.mycompany.wif3007project1.TestMain</node>
+            <node x="776.0" y="1077.0">com.mycompany.wif3007project1.ExitBehaviour</node>
+            <node x="179.4973544973543" y="58.0">com.mycompany.wif3007project1.DecorationInterface</node>
+            <node x="87.0" y="1077.0">com.mycompany.wif3007project1.EntranceBehaviour</node>
+            <node x="547.0" y="722.0">com.mycompany.wif3007project1.PreviousLivingRoom</node>
+            <node x="473.4973544973544" y="304.0">com.mycompany.wif3007project1.DecorativeAccessories</node>
+            <node x="1169.4973544973545" y="292.5">com.mycompany.wif3007project1.CenterPiece</node>
+            <node x="527.0" y="1180.0">com.mycompany.wif3007project1.Floating</node>
+            <node x="1024.0" y="596.0">com.mycompany.wif3007project1.Background</node>
+            <node x="777.8783068783068" y="0.0">com.mycompany.wif3007project1.Furniture</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.mycompany.wif3007project1.Pumpkin" target="com.mycompany.wif3007project1.DecorativeAccessories">
+              <point x="42.75" y="-38.5" />
+              <point x="128.25" y="422.0" />
+              <point x="517.9973544973544" y="422.0" />
+              <point x="-44.5" y="15.0" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.Candles" target="com.mycompany.wif3007project1.Furniture">
+              <point x="36.5" y="-26.5" />
+              <point x="250.99735449735442" y="196.0" />
+              <point x="785.9894179894179" y="196.0" />
+              <point x="-64.88888888888891" y="73.0" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.Spin" target="com.mycompany.wif3007project1.LoopingBehviour">
+              <point x="0.0" y="-26.5" />
+              <point x="441.0" y="1155.0" />
+              <point x="480.25" y="1155.0" />
+              <point x="-36.75" y="26.5" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.TableTypeA" target="com.mycompany.wif3007project1.Furniture">
+              <point x="-36.5" y="-26.5" />
+              <point x="1579.9973544973545" y="186.0" />
+              <point x="915.7671957671957" y="186.0" />
+              <point x="64.88888888888891" y="73.0" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.Ghost" target="com.mycompany.wif3007project1.DecorativeAccessories">
+              <point x="42.75" y="-38.5" />
+              <point x="424.5" y="432.0" />
+              <point x="606.9973544973544" y="432.0" />
+              <point x="44.5" y="15.0" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.Candles" target="com.mycompany.wif3007project1.DecorationInterface">
+              <point x="-36.5" y="-26.5" />
+              <point x="177.99735449735442" y="186.0" />
+              <point x="247.41402116402105" y="186.0" />
+              <point x="-13.583333333333314" y="15.0" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.EnvironmentLight" target="com.mycompany.wif3007project1.Light">
+              <point x="0.0" y="-49.5" />
+              <point x="1325.4973544973545" y="432.0" />
+              <point x="1382.4973544973545" y="432.0" />
+              <point x="-47.0" y="73.0" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.Pumpkin" target="com.mycompany.wif3007project1.DecorationInterface">
+              <point x="-42.75" y="-38.5" />
+              <point x="42.75" y="166.0" />
+              <point x="193.08068783068757" y="166.0" />
+              <point x="-67.91666666666674" y="15.0" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.Light" target="com.mycompany.wif3007project1.LightInterface">
+              <point x="47.0" y="-73.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.SofaTypeB" target="com.mycompany.wif3007project1.SofaInterface">
+              <point x="36.5" y="-26.5" />
+              <point x="1112.9973544973545" y="226.0" />
+              <point x="1089.8783068783068" y="226.0" />
+              <point x="31.25" y="15.0" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.Clocks" target="com.mycompany.wif3007project1.DecorationInterface">
+              <point x="-36.5" y="-26.5" />
+              <point x="707.9973544973544" y="166.0" />
+              <point x="328.91402116402105" y="166.0" />
+              <point x="67.91666666666669" y="15.0" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.Vases" target="com.mycompany.wif3007project1.DecorationInterface">
+              <point x="-36.5" y="-26.5" />
+              <point x="343.9973544973544" y="186.0" />
+              <point x="274.5806878306877" y="186.0" />
+              <point x="13.583333333333371" y="15.0" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.SofaTypeA" target="com.mycompany.wif3007project1.Furniture">
+              <point x="-36.5" y="-26.5" />
+              <point x="873.9973544973544" y="226.0" />
+              <point x="850.8783068783068" y="226.0" />
+              <point x="0.0" y="73.0" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.Floating" target="com.mycompany.wif3007project1.LoopingBehviour">
+              <point x="0.0" y="-26.5" />
+              <point x="593.0" y="1155.0" />
+              <point x="553.75" y="1155.0" />
+              <point x="36.75" y="26.5" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.DecorationLight" target="com.mycompany.wif3007project1.Light">
+              <point x="0.0" y="-49.5" />
+              <point x="1533.4973544973545" y="432.0" />
+              <point x="1476.4973544973545" y="432.0" />
+              <point x="47.0" y="73.0" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.PreviousLivingRoom" target="com.mycompany.wif3007project1.PreviousLivingRoomCareTaker">
+              <point x="-98.5" y="-50.0" />
+              <point x="645.5" y="697.0" />
+              <point x="621.5" y="697.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.FadeIn" target="com.mycompany.wif3007project1.EntranceBehaviour">
+              <point x="0.0" y="-26.5" />
+              <point x="252.5" y="1155.0" />
+              <point x="204.0" y="1155.0" />
+              <point x="39.0" y="26.5" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.Clocks" target="com.mycompany.wif3007project1.Furniture">
+              <point x="36.5" y="-26.5" />
+              <point x="780.9973544973544" y="226.0" />
+              <point x="834.6560846560847" y="226.0" />
+              <point x="-16.22222222222217" y="73.0" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.Vases" target="com.mycompany.wif3007project1.Furniture">
+              <point x="36.5" y="-26.5" />
+              <point x="416.9973544973544" y="206.0" />
+              <point x="802.2116402116402" y="206.0" />
+              <point x="-48.66666666666663" y="73.0" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.CenterPiece" target="com.mycompany.wif3007project1.CenterPieceInterface">
+              <point x="36.5" y="-26.5" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.TableTypeA" target="com.mycompany.wif3007project1.TableInterface">
+              <point x="36.5" y="-26.5" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.DecorativeAccessories" target="com.mycompany.wif3007project1.Furniture">
+              <point x="44.5" y="-15.0" />
+              <point x="606.9973544973544" y="216.0" />
+              <point x="818.4338624338624" y="216.0" />
+              <point x="-32.44444444444446" y="73.0" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.PreviousLivingRoom" target="com.mycompany.wif3007project1.PreviousLivingRoomOriginator">
+              <point x="98.5" y="-50.0" />
+              <point x="842.5" y="697.0" />
+              <point x="866.5" y="697.0" />
+              <point x="0.0" y="38.0" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.Zoom" target="com.mycompany.wif3007project1.EntranceBehaviour">
+              <point x="0.0" y="-26.5" />
+              <point x="77.5" y="1155.0" />
+              <point x="126.0" y="1155.0" />
+              <point x="-39.0" y="26.5" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.LivingRoom" target="com.mycompany.wif3007project1.LivingRoomInterface">
+              <point x="0.0" y="-120.0" />
+              <point x="0.0" y="73.0" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.DecorativeAccessories" target="com.mycompany.wif3007project1.DecorationInterface">
+              <point x="-44.5" y="-15.0" />
+              <point x="517.9973544973544" y="176.0" />
+              <point x="301.7473544973543" y="176.0" />
+              <point x="40.75" y="15.0" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.Ghost" target="com.mycompany.wif3007project1.DecorationInterface">
+              <point x="-42.75" y="-38.5" />
+              <point x="339.0" y="412.0" />
+              <point x="130.99735449735442" y="412.0" />
+              <point x="130.99735449735442" y="176.0" />
+              <point x="220.2473544973543" y="176.0" />
+              <point x="-40.75" y="15.0" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.Disappear" target="com.mycompany.wif3007project1.ExitBehaviour">
+              <point x="0.0" y="-26.5" />
+              <point x="766.5" y="1155.0" />
+              <point x="807.5" y="1155.0" />
+              <point x="-31.5" y="26.5" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.SofaTypeA" target="com.mycompany.wif3007project1.SofaInterface">
+              <point x="36.5" y="-26.5" />
+              <point x="946.9973544973544" y="226.0" />
+              <point x="1027.3783068783068" y="226.0" />
+              <point x="-31.25" y="15.0" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.SofaTypeB" target="com.mycompany.wif3007project1.Furniture">
+              <point x="-36.5" y="-26.5" />
+              <point x="1039.9973544973545" y="216.0" />
+              <point x="867.100529100529" y="216.0" />
+              <point x="16.22222222222217" y="73.0" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.CenterPiece" target="com.mycompany.wif3007project1.Furniture">
+              <point x="-36.5" y="-26.5" />
+              <point x="1205.9973544973545" y="206.0" />
+              <point x="883.3227513227513" y="206.0" />
+              <point x="32.44444444444446" y="73.0" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.FadeOut" target="com.mycompany.wif3007project1.ExitBehaviour">
+              <point x="0.0" y="-26.5" />
+              <point x="911.5" y="1155.0" />
+              <point x="870.5" y="1155.0" />
+              <point x="31.5" y="26.5" />
+            </edge>
+            <edge source="com.mycompany.wif3007project1.Light" target="com.mycompany.wif3007project1.Furniture">
+              <point x="-47.0" y="-73.0" />
+              <point x="1382.4973544973545" y="196.0" />
+              <point x="899.5449735449736" y="196.0" />
+              <point x="48.66666666666674" y="73.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.2335993615323226" x="907.5526298764314" y="748.5239761413411" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/Background.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/PreviousLivingRoomCareTaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/PreviousLivingRoomOriginator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/PreviousLivingRoom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/wif3007project1/SofaInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="28" />
         </state>
       </provider>
     </entry>

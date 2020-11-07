@@ -9,7 +9,7 @@ public class TestMain {
         background.setPositionX(2);
         background.setPostionY(2);
         background.isStatus();
-        System.out.println("X:" +background.getPositionX()+ "Y: "+background.getPisotionY());
+        System.out.println("X:" +background.getPositionX()+ "Y: "+background.getPositionY());
         background.display();
         livingRoom.setBackground(background);//Set a new background for Living Room
         SofaFactory sofaFactory = new SofaFactory();
