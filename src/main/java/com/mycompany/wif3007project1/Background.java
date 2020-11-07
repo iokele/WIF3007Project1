@@ -4,11 +4,20 @@ public class Background {
     private int positionX;
     private int positionY;
     private boolean status;
+    private String source;
 
     public Background(int positionX, int positionY, boolean status) {
         this.positionX = positionX;
         this.positionY = positionY;
         this.status = status;
+    }
+
+    public String getSource() {
+        return source;
+    }
+
+    public void setSource(String source) {
+        this.source = source;
     }
 
     public void display(){
